@@ -1,0 +1,30 @@
+.main-bgm {
+  background-image: url("https://assets.ccbp.in/frontend/react-js/social-buttons-bg.png");
+  background-size: 100% 100%;
+  height: 100vh;
+  max-width: 70%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  color: #ffffff;
+  font-family: bree serif;
+}
+.btn {
+  border-width: 0px;
+  padding: 5px;
+  font-family: Roboto;
+  margin: 5px;
+  border-radius: 5px;
+  color: #ffffff;
+}
+.like {
+  background-color: #eab308;
+}
+.comment {
+  background-color: #ffffff;
+  color: black;
+}
+.share {
+  background-color: #1d4ed8;
+}
